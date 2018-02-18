@@ -28,6 +28,7 @@ We also use the **pryr** and **microbenchmark** packages in the exercises.
 1. Avoid unnecessary computation by caching variables.
 1. Byte compile packages for an easy performance boost.
 
+
 ## General advice {#general}
 
 Low level languages like C and Fortran demand more from the programmer. They force you to declare the type of every variable used, give you the burdensome responsibility of memory management and have to be compiled. The advantage of such languages, compared with R, is that they are faster to run. The disadvantage is that they take longer to learn and can not be run interactively.
